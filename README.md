@@ -1,5 +1,2 @@
-# Instagrama-DIO
-
-Projeto página inicial Instagram
-
-Projeto Digital Innovation One: Recriando a página inicial do Instagram
+# instagrama-DIO
+Projeto de HTML e CSS Recriando a página inicial do Instagram - Digital Innovation One
